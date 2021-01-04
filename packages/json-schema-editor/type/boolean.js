@@ -1,5 +1,6 @@
 const value = {
   description: null,
+  default: null,
 };
 const attr = {
   description: {

@@ -1,10 +1,10 @@
 const value = {
   description: null,
+  default: null,
   maxLength: null,
   minLength: null,
   pattern: null,
   format: null,
-  default: null,
 };
 const attr = {
   description: {

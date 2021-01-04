@@ -1,5 +1,6 @@
 const value = {
   description: null,
+  default: null,
   maximum: null,
   minimum: null,
   exclusiveMaximum: null,
@@ -12,7 +13,7 @@ const attr = {
   },
   default: {
     name: "默认值",
-    type: "integer",
+    type: "string",
   },
   maximum: {
     name: "最大值",

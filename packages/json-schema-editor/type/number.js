@@ -1,5 +1,6 @@
 const value = {
   description: null,
+  default: null,
   maximum: null,
   minimum: null,
   exclusiveMaximum: null,
